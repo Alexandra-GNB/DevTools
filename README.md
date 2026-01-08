@@ -31,8 +31,8 @@ Antes de comenzar, asegúrate de tener instalado:
 En la ventana de PowerShell, ejecuta los siguientes comandos (reemplaza los valores con los reales):
 
 ```powershell
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/Alexandra-GNB/DevTools.git
+cd (nueva carpeta-de-tu-repositorio)
 ```
 
 ---
