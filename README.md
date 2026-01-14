@@ -138,6 +138,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```powershell
 .\newman.ps1 -Collection "nombre-api.postman_collection.json" -Environment "env.postman_environment.json" -Iterations 5 -Parallel
 ```
+---
+
 ```Respuesta en consola
 Running Newman: Collection=C:\Users\Auto\Libranzas.postman_collection.json Environment=C:\Users\SQA\Auto\avance\QA.postman_environment.json Iterations=1
 =====================================
