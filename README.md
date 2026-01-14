@@ -141,6 +141,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ---
 
 ```Respuesta en consola
+```
+
 Running Newman: Collection=C:\Users\Auto\Libranzas.postman_collection.json Environment=C:\Users\SQA\Auto\avance\QA.postman_environment.json Iterations=1
 =====================================
   Newman - Prueba de Carga
