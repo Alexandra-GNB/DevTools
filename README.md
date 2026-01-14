@@ -117,6 +117,14 @@ newman run tu-collection.json -r cli,html
 
 ---
 
+### Prueba por Servicio 
+
+```powershell
+.\newman.ps1 -Collection "collection.json" -e "environment" --folder "PRODUCTS-ObligacionesVigentes" 
+
+```
+---
+
 ### Preparación para Ejecutar `newman.ps1`
 
 1. Navega a la ruta donde se encuentra el script:
